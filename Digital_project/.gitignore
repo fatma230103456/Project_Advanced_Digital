@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.vscode/
+.idea/
+reports/*.pdf
+reports/*.html
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db
